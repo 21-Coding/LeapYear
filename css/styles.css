@@ -3,6 +3,10 @@ body  {
   background-size: contain;
 }
 
+#result {
+  display: none;
+}
+
 .well {
       width: 500;
       height: 500;
