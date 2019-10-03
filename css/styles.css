@@ -1,0 +1,23 @@
+body  {
+  background: url('../img/leap.gif');
+  background-size: contain;
+}
+
+.well {
+      width: 500;
+      height: 500;
+      background-color: dodgerblue;
+      opacity: .9;
+        }
+
+.btn {
+  color: beige;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  text-align: center;
+}
